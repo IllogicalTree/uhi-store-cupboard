@@ -1,0 +1,5 @@
+.firebase
+.firebaserc
+src/fb.js
+
+node_modules
